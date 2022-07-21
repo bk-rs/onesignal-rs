@@ -18,3 +18,4 @@ http-api-client-endpoint = { version = "0.2" }
 serde = { version = "1.0", default-features = false, features = ["std", "derive"] }
 url = { version = "2.2", default-features = false, features = ["serde"] }
 serde_json = { version = "1.0", default-features = false, features = ["std"] }
+serde-enum-str = { version = "0.2", default-features = false }
