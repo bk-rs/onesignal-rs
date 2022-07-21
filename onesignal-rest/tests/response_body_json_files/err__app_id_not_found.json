@@ -1,0 +1,5 @@
+{
+    "errors": [
+        "app_id not found. You may be missing a Content-Type: application/json header."
+    ]
+}

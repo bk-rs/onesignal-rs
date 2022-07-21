@@ -1,0 +1,11 @@
+{
+    "id": "c0bf597f-08e9-4e0a-8cc5-0de94ffa6033",
+    "recipients": 1,
+    "external_id": null,
+    "errors": {
+        "invalid_phone_numbers": [
+            "+15555555555",
+            "+14444444444"
+        ]
+    }
+}

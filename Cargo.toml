@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "onesignal-rest",
+    "onesignal-rest/demo",
 ]

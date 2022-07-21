@@ -1,0 +1,10 @@
+{
+    "id": "57127ecc-85ff-4888-a522-7de9f0d5182e",
+    "recipients": 1,
+    "external_id": null,
+    "errors": {
+        "invalid_external_user_ids": [
+            "786956"
+        ]
+    }
+}

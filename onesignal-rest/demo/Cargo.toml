@@ -1,0 +1,17 @@
+[package]
+name = "onesignal-rest-demo"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "create_notification_push_channel_send_based_on_onesignal_player_ids"
+path = "src/create_notification_push_channel_send_based_on_onesignal_player_ids.rs"
+
+[dependencies]
+onesignal-rest = { path = ".." }
+
+http-api-isahc-client = { version = "0.2" }
+serde_json = { version = "1.0" }
+
+futures-lite = { version = "1.11" }
+pretty_env_logger = { version = "0.4" }

@@ -1,0 +1,10 @@
+{
+    "id": "c0bf597f-08e9-4e0a-8cc5-0de94ffa6033",
+    "recipients": 1,
+    "external_id": null,
+    "errors": {
+        "invalid_player_ids": [
+            "b186912c-cf25-4688-8218-06cb13e09a4f"
+        ]
+    }
+}
