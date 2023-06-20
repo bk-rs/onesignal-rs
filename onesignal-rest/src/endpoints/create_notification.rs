@@ -131,7 +131,7 @@ impl CreateNotificationRequestBodyJson {
 #[derive(Deserialize, Serialize, Debug, Clone)]
 pub struct CreateNotificationResponseBodyOkJson {
     pub id: Box<str>,
-    pub recipients: usize,
+    pub recipients: Option<usize>,
 
     pub errors: Option<CreateNotificationResponseBodyOkJsonErrors>,
 }
